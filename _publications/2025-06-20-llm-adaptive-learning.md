@@ -1,14 +1,16 @@
 ---
-title: "Adaptive Learning Strategies for Large Language Models in Dynamic Environments"
+title: "Not All Tokens Are Equal: Adaptive Learning in LLMs"
 collection: publications
-category: conferences
 permalink: /publication/2025-06-20-llm-adaptive-learning
-excerpt: 'This paper presents adaptive learning techniques for LLMs, enabling real-time adjustment to dynamic environments, with significant improvements validated on diverse datasets.'
+excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.'
 date: 2025-06-20
-venue: 'Accepted at ICML 2025 - International Conference on Machine Learning'
-slidesurl: 'http://yourwebsite.com/files/slides-llm-adaptive-learning.pdf'
-paperurl: 'http://yourwebsite.com/files/paper-llm-adaptive-learning.pdf'
-bibtexurl: 'http://yourwebsite.com/files/bibtex-llm-adaptive-learning.bib'
-codeurl: 'https://github.com/mcptest-user/llm-adaptive-learning'
-citation: 'John Smith, et al. (2025). "Adaptive Learning Strategies for Large Language Models in Dynamic Environments." <i>Accepted at ICML 2025 - International Conference on Machine Learning</i>.'
+venue: 'Conference on Language Modeling (COLM 2026)'
+paperurl: 'https://openreview.net/forum?id=example123'
+arxivurl: 'https://arxiv.org/abs/2506.00001'
+codeurl: 'https://github.com/grayrimotech/llm-adaptive-learning'
+citation: 'Smith, J., Johnson, A., Williams, B., &amp; Brown, C. (2025). Not All Tokens Are Equal: Adaptive Learning in LLMs. <i>Conference on Language Modeling (COLM 2026)</i>.'
+authors: 'John Smith, Alice Johnson, Bob Williams, Carol Brown'
+status: 'Accepted at COLM 2026'
+year: '2026'
+type: 'conference'
 ---
