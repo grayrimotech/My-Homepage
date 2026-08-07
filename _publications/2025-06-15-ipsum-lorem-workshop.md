@@ -1,13 +1,15 @@
 ---
-title: "Ipsum Lorem is all you need for a workshop"
+title: "Ipsum Lorem Revisited: Yet Another Preamble"
 collection: publications
-category: conferences
 permalink: /publication/2025-06-15-ipsum-lorem-workshop
-excerpt: 'This workshop paper explores the application of Ipsum Lorem in long-context foundation models, highlighting improvements in handling extended sequences for LLMs.'
+excerpt: 'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.'
 date: 2025-06-15
-venue: 'Under review at COML Workshop on Large Language Models (COMLW 2025)'
-slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem-workshop.pdf'
-paperurl: 'https://openreview.net/forum?id=example123wpsk'
-bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem-workshop.bib'
-citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need for a workshop." <i>Under review at COML Workshop on Large Language Models (COMLW 2025)</i>.'
+venue: 'Workshop on Machine Learning (COMLW 2026)'
+paperurl: 'https://openreview.net/forum?id=example124'
+videourl: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+citation: 'Smith, J., Johnson, A., Williams, B., &amp; Brown, C. (2025). Ipsum Lorem Revisited: Yet Another Preamble. <i>Workshop on Machine Learning (COMLW 2026)</i>.'
+authors: 'John Smith, Alice Johnson, Bob Williams, Carol Brown'
+status: 'Accepted at COMLW 2026'
+year: '2026'
+type: 'workshop'
 ---
