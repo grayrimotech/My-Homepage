@@ -1,13 +1,17 @@
 ---
 title: "Ipsum Lorem is all you need"
 collection: publications
-category: conferences
 permalink: /publication/2025-06-01-ipsum-lorem-all-you-need
-excerpt: 'This paper introduces a novel approach to simplifying LLM architectures, demonstrating that Ipsum Lorem techniques can achieve competitive performance with reduced computational costs.'
+excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.'
 date: 2025-06-01
-venue: 'Under review at COML 2025 - Conference on Machine Learning'
-slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem.pdf'
+venue: 'Conference on Machine Learning (COML 2026)'
 paperurl: 'https://openreview.net/forum?id=example123'
-bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem.bib'
-citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>Under review at COML 2025 - Conference on Machine Learning</i>.'
+arxivurl: 'https://arxiv.org/abs/2506.00001'
+codeurl: 'https://github.com/grayrimotech/ipsum-lorem-all-you-need'
+videourl: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+citation: 'Smith, J., Johnson, A., Williams, B., &amp; Brown, C. (2025). Ipsum Lorem is all you need. <i>Conference on Machine Learning (COML 2026)</i>.'
+authors: 'John Smith, Alice Johnson, Bob Williams, Carol Brown'
+status: 'Accepted at COML 2026 (oral presentation, top ~1%)'
+year: '2026'
+type: 'conference'
 ---
